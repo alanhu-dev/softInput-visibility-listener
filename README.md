@@ -2,6 +2,8 @@
 This library allows you to easily register a listener for the visibility of the SoftInput (keyboard) in activity, fragment.
 
 ## Installation
+[![](https://jitpack.io/v/alanhu-dev/softInput-visibility-listener.svg)](https://jitpack.io/#alanhu-dev/softInput-visibility-listener)
+
 ### Requirements
 The lib works on Android 5.0+ (API level 21+).
 
