@@ -4,6 +4,8 @@ plugins {
     `maven-publish`
 }
 
+group = "com.alanhu.tools"
+
 android {
     namespace = "com.alanhu.tools.softinputvisibilitylistener"
     compileSdk = 34
@@ -54,7 +56,7 @@ publishing {
     publications {
         create<MavenPublication>("release") {
             groupId = "com.alanhu.tools"
-            artifactId = "softinput-state-listener"
+            artifactId = "softinput-visibility-listener"
             version = "1.0"
 
             afterEvaluate {
