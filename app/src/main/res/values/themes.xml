@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SoftInputVisibilityListener" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.SoftInputVisibilityListener" parent="Theme.Material3.Light.NoActionBar" />
+</resources>
